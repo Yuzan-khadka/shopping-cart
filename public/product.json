@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 49.99
+    
+  },
+
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 128.99
+  },
+
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 72.99
+  },
+
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 85.99
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 93.99
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "description": "If a dog chews shoes whose shoes does he choose?",
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "price": 110.99
+  }
+]
